@@ -1,6 +1,3 @@
-# Home_Sales
-
-
 # Home Sales Analysis with SparkSQL
 
 ## Overview
